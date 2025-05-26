@@ -43,6 +43,11 @@ dev = [
     "pre-commit>=3.4.0",
     "ipython>=8.0.0",
 ]
+
+ollama = [
+    "ollama>=0.1.1"
+]
+
 openai = [
     "openai>=1.0.0",
 ]
